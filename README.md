@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GraphQL, Design, Testing
 - 💬 Ask me about Javascript, Full Stack Development, css3, Illustration, Design System.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Love to listen Hans Zimmer Soundtracks while Design Website.
+- ⚡ Fun fact: Love to listen Hans Zimmer Soundtracks while Design Websites.
 - 📫 How to reach me: aakrutdabhi@gmail.com
 
 
