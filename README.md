@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-- 🌱 I’m currently learning GraphQL, Design, Testing
+- 🌱 I’m currently learning Design, Testing
 - 💬 Ask me about Javascript, Full Stack Development, css3, Illustration, Design System.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Love to listen Hans Zimmer Soundtracks while Design Websites.
