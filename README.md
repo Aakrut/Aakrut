@@ -36,6 +36,7 @@
 [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#) 
 [![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#)
 
 
 #### Design
