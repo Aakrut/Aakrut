@@ -69,5 +69,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakrut&theme=dark)](https://git.io/streak-stats)
 
+[![Aakrut's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aakrut&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
