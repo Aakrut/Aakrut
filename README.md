@@ -63,13 +63,12 @@
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakrut&show_icons=true&theme=dark)
+![Aakrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakrut&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakrut&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakrut&theme=dark)](https://git.io/streak-stats)
 
-[![Aakrut's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aakrut&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
