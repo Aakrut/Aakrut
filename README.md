@@ -72,3 +72,4 @@
 
 ![Metrics](https://metrics.lecoq.io/Aakrut?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
+![github-user-contribution](https://user-images.githubusercontent.com/67114280/175800445-9b7658cf-0bc9-497e-b07f-ae3e42de40f2.svg)
