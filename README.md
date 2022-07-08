@@ -5,7 +5,6 @@
 
 - 💬 Ask me about Javascript, Full Stack Development, css3, Illustration, Design System.
 - 😄 Pronouns: he/him 
-- 📫 How to reach me: aakrutdabhi@gmail.com
 
 
 [![Aakrut's__trophy](https://github-profile-trophy.vercel.app/?username=Aakrut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
